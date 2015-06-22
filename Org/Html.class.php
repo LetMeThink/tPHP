@@ -2,6 +2,7 @@
 /**
  * Class Html 生成网页html的辅助类
  * @version 1.0.1
+ *
  */
 
 class Html
